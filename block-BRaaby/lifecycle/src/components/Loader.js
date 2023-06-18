@@ -1,7 +1,6 @@
 import './loader.css';
 
 function Loader() {
-  return <div className="donut"></div>;
+  return <div clasname="donut"></div>;
 }
-
 export default Loader;
